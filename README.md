@@ -1,6 +1,6 @@
 <body> 
   <h1> Hello there 👋 I'm Gapilesh </h1>
-  <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || WordPress - Intern </h2>
+  <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || WordPress Developer</h2>
 </body>
 
 
