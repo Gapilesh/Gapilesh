@@ -1,6 +1,8 @@
 <body> 
   <h1> Hello there 👋 I'm Gapilesh </h1>
-  <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || WordPress Developer</h2>
+  <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || Freelance Web Developer (WordPress) || G17 Student Ambassador (IIT) </h2>
+  <br> 
+  <p>I'm a determined undergraduate student studying Software Engineering at the Informatics Institute of Technology, Sri Lanka, affiliated with the University of Westminster, UK. I'm passionate about learning new technologies and keeping up-to-date in this evolving field. I look forward to gaining more industry experience and training to become my best version.</p>
 </body>
 
 
