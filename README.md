@@ -1,6 +1,10 @@
 <body> 
-  <h1> Hello there 👋 I'm Gapilesh </h1>
+  <h1> Hello there 👋 I'm Gapilesh Pirabaharan </h1>
   <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || Freelance Web Developer (WordPress) || G17 Student Ambassador (IIT) </h2>
+  <p>• Currently pursuing BEng (Hons) Software Engineering Degree at Informatics Institute of Technology (Srilanka), Affiliated with University of Westminster (UK) </p>
+  <p>• Passionately learning Cyber Security.</p>
+  <p>• Working on freelance Web Development Projects</p>
+  <p>• Love exercising, meditating, dancing, reading self-development, and finance-related books, and e-learning</p>
   <br> 
   
 ## 🌐 Socials:
