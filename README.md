@@ -6,6 +6,7 @@
   <p>• Working on freelance Web Development Projects</p>
   <p>• Love exercising, meditating, dancing, reading self-development, and finance-related books, and e-learning</p>
   <br> 
+  <p>Download my <a href="https://github.com/Gapilesh/Gapilesh/blob/main/Gapilesh%20Pirabaharan%20-%20CV.pdf">Resume</a>.</p>
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008568722521) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gap.z_z/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gapilesh-pirabaharan/) 
