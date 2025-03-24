@@ -5,7 +5,7 @@
   <p>• Passionately learning Cyber Security.</p>
   <p>• Working on freelance Web Development Projects</p>
   <p>• Love exercising, meditating, dancing, reading self-development, and finance-related books, and e-learning</p>
-  <p>• Download my <a href="https://github.com/Gapilesh/Gapilesh/blob/main/Gapilesh%20Pirabaharan%20-%20Resume.pdf">Resume</a>.</p>
+  <p>• Download my <a href="https://github.com/Gapilesh/Gapilesh/blob/main/Gapilesh%20Pirabaharan_Resume.pdf">Resume</a>.</p>
   <br> 
   
   
