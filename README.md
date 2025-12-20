@@ -1,11 +1,11 @@
 <body> 
   <h1> I am Gapilesh Pirabaharan </h1>
-  <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || Freelance Web Developer (WordPress) || G17 Student Ambassador (IIT) </h2>
-  <p>• Currently pursuing BEng (Hons) Software Engineering Degree at Informatics Institute of Technology (Srilanka), Affiliated with University of Westminster (UK) </p>
-  <p>• Passionately learning Cyber Security.</p>
-  <p>• Working on freelance Web Development Projects</p>
-  <p>• Love exercising, meditating, dancing, reading self-development, and finance-related books, and e-learning</p>
-  <p>• Download my <a href="https://github.com/Gapilesh/Gapilesh/blob/main/Gapilesh%20Pirabaharan_Resume.pdf">Resume</a>.</p>
+  <h2> Software Engineering Graduate || Information Security Professional || TechOps Engineer || G17 Student Ambassador (IIT) </h2>
+  <p>• BEng (Hons) Software Engineering Degree with Second Class Upper at Informatics Institute of Technology (Srilanka), Affiliated with University of Westminster (UK) </p>
+  <p>• Passionate Cyber Security Professional.</p>
+  <p>• Working as TechOps Engineer at an ISO 27001:2022 environment </p>
+  <p>• Development: exercising, meditating, dancing, reading self-development, and finance-related books, and e-learning</p>
+
   <br> 
   
   
