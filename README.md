@@ -1,5 +1,5 @@
 <body> 
-  <h1> This is Gapilesh Pirabaharan </h1>
+  <h1> I am Gapilesh Pirabaharan </h1>
   <h2> Software Engineering Undergraduate || Cybersecurity Enthusiast || Freelance Web Developer (WordPress) || G17 Student Ambassador (IIT) </h2>
   <p>• Currently pursuing BEng (Hons) Software Engineering Degree at Informatics Institute of Technology (Srilanka), Affiliated with University of Westminster (UK) </p>
   <p>• Passionately learning Cyber Security.</p>
