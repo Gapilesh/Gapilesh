@@ -3,7 +3,7 @@
   <h2> Software Engineering Graduate || Information Security Professional || TechOps Engineer || G17 Student Ambassador (IIT) </h2>
   <p>• BEng (Hons) Software Engineering Degree with Second Class Upper at Informatics Institute of Technology (Srilanka), Affiliated with University of Westminster (UK) </p>
   <p>• Passionate Cyber Security Professional.</p>
-  <p>• Working as TechOps Engineer at an ISO 27001:2022 environment </p>
+  <p>• Working as TechOps Engineer (Information Security) at an ISO 27001:2022 environment and a Visiting Lecturer for Cybersecurity </p>
   <p>• Development: exercising, meditating, dancing, reading self-development, and finance-related books, and e-learning</p>
 
   <br> 
