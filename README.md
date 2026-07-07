@@ -1,6 +1,6 @@
 <body> 
   <h1> I am Gapilesh Pirabaharan </h1>
-  <h2> Software Engineering Graduate || Information Security Professional || TechOps Engineer || G17 Student Ambassador (IIT) </h2>
+  <h2> Cybersecurity Professional || BEng (Hons) Software Engineering </h2>
   <p>• BEng (Hons) Software Engineering Degree with Second Class Upper at Informatics Institute of Technology (Srilanka), Affiliated with University of Westminster (UK) </p>
   <p>• Passionate Cyber Security Professional.</p>
   <p>• Working as TechOps Engineer (Information Security) at an ISO 27001:2022 environment and a Visiting Lecturer for Cybersecurity </p>
@@ -28,8 +28,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gapilesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/gapilesh) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
